@@ -37,6 +37,8 @@ Contains CSS files for styling the components and pages.
 
 * Email Services: This will give users notification when certain actions are carried out.
 
+* Responsiveness: Fixed such that it is compatible on desktop and not just mobile.
+
 
 ## Escrow Logic
 
