@@ -3,7 +3,7 @@
 ChatMe is a comprehensive chat escrow application featuring real-time escrow based p2p trading, and funds management for secure transactions. The app includes user authentication, profile management, escrow chat functionality, and financial operations, designed to provide a seamless communication and transaction experience.
 
 ```
-Base background-color: #242424;
+New Update: Users get a Demo $150 to test the app and create escrows
 ```
 
 ## Admin Perspective
@@ -37,8 +37,6 @@ Contains CSS files for styling the components and pages.
 
 * Email Services: This will give users notification when certain actions are carried out.
 
-* Responsiveness: Fixed such that it is compatible on desktop and not just mobile.
-
 
 ## Escrow Logic
 
@@ -55,5 +53,5 @@ The escrow system ensures secure transactions with the following logic:
 These functions handle the escrow process, managing funds and status updates securely.
 
 `
-This project is part of my Experimental Lab
+This project is part of the iBukas Experimental Lab
 `
