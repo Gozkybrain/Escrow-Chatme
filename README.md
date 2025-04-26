@@ -1,4 +1,4 @@
-# Chat Me 🌍
+# Chat Me Escrow 🌍
 
 ChatMe is a comprehensive chat escrow application featuring real-time escrow based p2p trading, and funds management for secure transactions. The app includes user authentication, profile management, escrow chat functionality, and financial operations, designed to provide a seamless communication and transaction experience.
 
